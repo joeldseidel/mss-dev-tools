@@ -1,0 +1,28 @@
+.project-listing{
+    border-radius: 5px;
+    box-shadow: 2px 2px 8px #a6b3bf;
+    padding: 16px 32px 16px 32px;
+    margin: 16px 16px 0 16px;
+    cursor: pointer;
+}
+
+.content-col{
+    border: 1px solid #c4ccd4;
+    border-radius: 5px;
+    padding-bottom: 16px;
+}
+
+.story-listing{
+    border-radius: 5px;
+    box-shadow: 2px 2px 8px #a6b3bf;
+    padding: 16px 32px 16px 32px;
+    margin: 16px 16px 0 16px;
+    cursor: pointer;
+}
+
+.story-priority{
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    float: right;
+}
